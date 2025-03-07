@@ -40,7 +40,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Monthly Analysis View
 
 <p align="center">
-  <img src = 
+  <img src = 'https://github.com/Venkat07081999/Power-BI-Hospitality-Analysis/blob/df333e253abce8a12f21ea3f8d287c6e13515495/Monthly_analysis.JPG'>
 </p>
 
 ## Learnt things from this Project 
