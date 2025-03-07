@@ -40,7 +40,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Monthly Analysis View
 
 <p align="center">
-  <img src = ![image](https://github.com/user-attachments/assets/07c820e0-1b7f-4026-8b3a-34d333edf443)
+  <img src = 
 </p>
 
 ## Learnt things from this Project 
