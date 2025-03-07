@@ -34,7 +34,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Overall Analysis View
 
 <p align="center">
-    <img src='https://github.com/Venkat07081999/Power-BI-Hospitality-Analysis/blob/940beca6a8edcf4c5f6223b71790c4976696f811/Overall_analysis.jpg>
+    <img src='https://github.com/Venkat07081999/Power-BI-Hospitality-Analysis/blob/940beca6a8edcf4c5f6223b71790c4976696f811/Overall_analysis.jpg'>
 </p>
 
 ## Monthly Analysis View
